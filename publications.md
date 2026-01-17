@@ -67,10 +67,7 @@ layout: page
 
 
 ## Conference Publications
-* Item 1
-* Item 2
-* Item 3
-* Item 4
+
 
 ## Book Chapters
 * Emerging technologies and application for studies of shark biology. In: J. Carrier, M. Heithaus, C. Simpfendorfer (eds.). Use of autonomous vehicles for tracking and surveying of acoustically tagged elasmobranchs. CRC Press. Lowe, C.G., C.F. White, C.M. Clark. 2018.
