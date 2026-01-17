@@ -78,72 +78,37 @@ layout: page
 ## Theses
 
 #### 2012
-* Decentralized and Complete Multi-Robot Motion Planning in Confined Spaces
-Princeton University, B.S. Thesis, 2012.
-Scobee, D.R. and Wiktor, A.T. 
-[PDF]
+* Decentralized and Complete Multi-Robot Motion Planning in Confined Spaces, Scobee, D.R. and Wiktor, A.T., Princeton University, B.S. Thesis, 2012. [PDF]
 
-* Autonomous Robot Control for Underwater Tunnel Mapping
-Princeton University, Senior Thesis, 2012.
-Simpson, Anna K. 
-[PDF]
+* Autonomous Robot Control for Underwater Tunnel Mapping, Simpson, Anna K., Princeton University, Senior Thesis, 2012. [PDF]
 
-* Autonomous Control for Remotely Operated Vehicles
-Princeton University, Senior Thesis, 2012.
-Li, Yingxue  
-[PDF]
+* Autonomous Control for Remotely Operated Vehicles, Li, Yingxue, Princeton University, Senior Thesis, 2012. [PDF]
 
 * Mapping of Underwater Environments with an ROV using a robotic Smart Tether in conjunction with Simultaneous Localization and Mapping (SLAM) Algorithms
 Princeton University, Senior Thesis, 2012. 
 Boik, Andrew
 [PDF]
 
-* 2D Scanning Sonar Modeling and Algorithm Development for Robots Conducting Underwater Tunnel Mapping 
-Princeton University, Senior Thesis, 2012. 
-Walker, Austin E.
-[PDF]
+* 2D Scanning Sonar Modeling and Algorithm Development for Robots Conducting Underwater Tunnel Mapping, Walker, Austin E., Princeton University, Senior Thesis, 2012. [PDF]
 
-* Mapping and Visualizing Ancient Water Storage Systems with an ROV -- An Approach Based on Fusing Stationary Scans within a Particle Filter
-California Polytechnic State University, M.S. Thesis, 2012. 
-McVicker, W.
-[PDF]
+* Mapping and Visualizing Ancient Water Storage Systems with an ROV -- An Approach Based on Fusing Stationary Scans within a Particle Filter, McVicker, W., California Polytechnic State University, M.S. Thesis, 2012. [PDF]
 
-* Autonomous Tracking and Following of Sharks with an Autonomous Underwater Vehicle
-California Polytechnic State University, M.S. Thesis, 2012. 
-Manii, E.
-[PDF]
+* Autonomous Tracking and Following of Sharks with an Autonomous Underwater Vehicle, Manii, E., California Polytechnic State University, M.S. Thesis, 2012. [PDF]
 
 #### 2011
-* State Estimation for Tracking of Tagged Sharks with an AUV
-California Polytechnic State University, M.S. Thesis, 2011. 
-Forney, C.
-[PDF]
+* State Estimation for Tracking of Tagged Sharks with an AUV, Forney, C., California Polytechnic State University, M.S. Thesis, 2011. [PDF]
 
 #### 2010
-* Intelligent Planning and Assimilation of AUV-Obtained Measurements within a ROMS-Based Ocean Modeling System 
-California Polytechnic State University, M.S. Thesis, 2010
-Davini, B.
-[PDF]
+* Intelligent Planning and Assimilation of AUV-Obtained Measurements within a ROMS-Based Ocean Modeling System, Davini, B., California Polytechnic State University, M.S. Thesis, 2010. [PDF]
 
-* Multi-Robot Boundary Tracking with Workload and Phase Balancing
-California Polytechnic State University, M.S. Thesis, 2010.
-Boardman, M.
-[PDF]
+* Multi-Robot Boundary Tracking with Workload and Phase Balancing, Boardman, M., California Polytechnic State University, M.S. Thesis, 2010. [PDF]
 
-* Using Monocular Vision and Image Correlation to Accomplish Autonomous Localization
-California Polytechnic State University, M.S. Thesis, 2010.
-Schlachtman, M.
+* Using Monocular Vision and Image Correlation to Accomplish Autonomous Localization. Schlachtman, M., California Polytechnic State University, M.S. Thesis, 2010.
 
 #### 2009
-* Distributed Sensing and Observer Design for Vehicles State Estimation
-University of Waterloo, Ph.D. Thesis, 2009. 
-Bolandhemmat, H.
-[PDF]
+* Distributed Sensing and Observer Design for Vehicles State Estimation, Bolandhemmat, H., University of Waterloo, Ph.D. Thesis, 2009. [PDF]
 
-* Assigning Closely Spaced Targets to Multiple Autonomous Underwater Vehicles
-University of Waterloo, M.A.Sc. Thesis, 2009. 
-Chow, B.
-[PDF]
+* Assigning Closely Spaced Targets to Multiple Autonomous Underwater Vehicles, Chow, B., University of Waterloo, M.A.Sc. Thesis, 2009. [PDF]
 
 #### 2008
 * A Decentralized Approach to Dynamic Collaborative Driving Coordination, Dao, T.S., University of Waterloo, Ph.D. Thesis, 2008. [PDF]
