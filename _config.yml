@@ -7,9 +7,9 @@ url: ''
 baseurl: 
 
 # Title of the Site
-title: What A Theme
+title: LAIR @ NYU
 # Description of the Site
-description: A customizable Jekyll portfolio theme
+description: Lab for Autonomous and Intelligent Robotics
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
@@ -95,3 +95,4 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+
