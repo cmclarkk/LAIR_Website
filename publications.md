@@ -14,37 +14,25 @@ layout: page
 * A Multi-Autonomous System for Autonomous Tracking of Marine Life, Lin, Y., Hsiung, J., Piersall, R., White, C., Lowe C.G., Farrugia T.J., Clark C.M., Journal of Field Robotics, 2017. [PDF]
 
 #### 2016
-* Human vs robot: Comparing the viability and utility of autonomous underwater vehicles for the acoustic telemetry tracking of marine organisms 
-Journal of Experimental Marine Biology and Ecology, Vol. 485, pp. 112-118, December 2016. White, C., Lin., Y., Clark, C.M., and Lowe, C.G.
-[PDF]
+* Human vs robot: Comparing the viability and utility of autonomous underwater vehicles for the acoustic telemetry tracking of marine organisms, White, C., Lin., Y., Clark, C.M., and Lowe, C.G., Journal of Experimental Marine Biology and Ecology, Vol. 485, pp. 112-118, December 2016. [PDF]
 
 #### 2014
-* A Memetic Algorithm Approach for Solving the Task-based Configuration Optimization Problem in Serial Modular and Reconfigurable Robots
-Robotica, Vol. 34, pp. 1979-2008, October 2014. S. Tabandeh, Peter Won, M. Biglarbegian, W. Melek, C. M. Clark
+* A Memetic Algorithm Approach for Solving the Task-based Configuration Optimization Problem in Serial Modular and Reconfigurable Robots, S. Tabandeh, Peter Won, M. Biglarbegian, W. Melek, C. M. Clark, Robotica, Vol. 34, pp. 1979-2008, October 2014.
 
 #### 2013
-* Behavioral Characterization and Particle Filter Localization of a Shovelnose Guitarfish, Journal of Ocean Engineering, Vol. 61, pp. 1-11, March 2013. Xydes A., Moline M.A., Lowe C. G., Farrugia T. J., Clark C.M.
-[PDF]
+* Behavioral Characterization and Particle Filter Localization of a Shovelnose Guitarfish, Xydes A., Moline M.A., Lowe C. G., Farrugia T. J., Clark C.M., Journal of Ocean Engineering, Vol. 61, pp. 1-11, March 2013. [PDF]
 
-* Tracking and Following of a Tagged Leopard Shark with an Autonomous Underwater Vehicle, Journal of Field Robotics, Vol. 30, pp. 309-322, 2013. Clark, C.M., Forney, C., Manii, E., Shinzaki, D., Farris, M., and Lowe, C.G.
-[PDF]
+* Tracking and Following of a Tagged Leopard Shark with an Autonomous Underwater Vehicle, Clark, C.M., Forney, C., Manii, E., Shinzaki, D., Farris, M., and Lowe, C.G., Journal of Field Robotics, Vol. 30, pp. 309-322, 2013. [PDF]
 
-* A Strategy for Optimization of Cooperative Platoon Formation, International Journal of Vehicle Information and Communication Systems, Vol. 3, pp. 28-33, 2013. Dao T.S., Huissoon J.P., Clark C.M.
-[PDF]
+* A Strategy for Optimization of Cooperative Platoon Formation, Dao T.S., Huissoon J.P., Clark C.M., International Journal of Vehicle Information and Communication Systems, Vol. 3, pp. 28-33, 2013. [PDF]
 
 #### 2012
-* Estimation of Volumetric Oxygen Concentration in a Marine Environment with an Autonomous Underwater Vehicle, Journal of Field Robotics, Vol. 30, pp. 1-16, March 2012. Clark C.M., Hancke K., Xydes A., Hall K., Schreiber F., Klemme J., Lehr J., Moline M.
-[PDF]
+* Estimation of Volumetric Oxygen Concentration in a Marine Environment with an Autonomous Underwater Vehicle, Clark C.M., Hancke K., Xydes A., Hall K., Schreiber F., Klemme J., Lehr J., Moline M., Journal of Field Robotics, Vol. 30, pp. 1-16, March 2012. [PDF]
 
-* A Solution to the State Estimation Problem of Systems with Unknown Inputs
-Recent Patents on Mechanical Engineering, Vol. 5, pp. 102-112, March 2012. 
-Bolandhemmat, H., Clark, C., Golnaraghi, F.
-[PDF]
+* A Solution to the State Estimation Problem of Systems with Unknown Inputs, Bolandhemmat, H., Clark, C., Golnaraghi, F., Recent Patents on Mechanical Engineering, Vol. 5, pp. 102-112, March 2012. [PDF]
 
 #### 2011
-* Assigning Closely-Spaced Targets to Multiple Autonomous Underwater Vehicles
-Journal of Ocean Technology, Vol. 6, pp. 57-77, 2011. Chow, B., Clark, C.M., T.S., Huissoon J.P.
-[PDF]
+* Assigning Closely-Spaced Targets to Multiple Autonomous Underwater Vehicles, Chow, B., Clark, C.M., T.S., Huissoon J.P., Journal of Ocean Technology, Vol. 6, pp. 57-77, 2011. [PDF]
 
 #### 2010
 * The Malta Cistern Mapping Project: Underwater Robot Mapping and Localization within Ancient Tunnel Systems, White, C., Hiranandani, D., Olstad, C., Buhagiar, K., Gabmin, T., Clark, C.M., Journal of Field Robotics, Vol. 27, pp. 399-411, 2010. [PDF]
