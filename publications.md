@@ -74,4 +74,127 @@ layout: page
 
 ## Book Chapters
 * Emerging technologies and application for studies of shark biology. In: J. Carrier, M. Heithaus, C. Simpfendorfer (eds.). Use of autonomous vehicles for tracking and surveying of acoustically tagged elasmobranchs. CRC Press. Lowe, C.G., C.F. White, C.M. Clark. 2018.
-  
+
+## Theses
+
+#### 2012
+* Decentralized and Complete Multi-Robot Motion Planning in Confined Spaces
+Princeton University, B.S. Thesis, 2012.
+Scobee, D.R. and Wiktor, A.T. 
+[PDF]
+
+* Autonomous Robot Control for Underwater Tunnel Mapping
+Princeton University, Senior Thesis, 2012.
+Simpson, Anna K. 
+[PDF]
+
+* Autonomous Control for Remotely Operated Vehicles
+Princeton University, Senior Thesis, 2012.
+Li, Yingxue  
+[PDF]
+
+* Mapping of Underwater Environments with an ROV using a robotic Smart Tether in conjunction with Simultaneous Localization and Mapping (SLAM) Algorithms
+Princeton University, Senior Thesis, 2012. 
+Boik, Andrew
+[PDF]
+
+* 2D Scanning Sonar Modeling and Algorithm Development for Robots Conducting Underwater Tunnel Mapping 
+Princeton University, Senior Thesis, 2012. 
+Walker, Austin E.
+[PDF]
+
+* Mapping and Visualizing Ancient Water Storage Systems with an ROV -- An Approach Based on Fusing Stationary Scans within a Particle Filter
+California Polytechnic State University, M.S. Thesis, 2012. 
+McVicker, W.
+[PDF]
+
+* Autonomous Tracking and Following of Sharks with an Autonomous Underwater Vehicle
+California Polytechnic State University, M.S. Thesis, 2012. 
+Manii, E.
+[PDF]
+
+#### 2011
+* State Estimation for Tracking of Tagged Sharks with an AUV
+California Polytechnic State University, M.S. Thesis, 2011. 
+Forney, C.
+[PDF]
+
+#### 2010
+* Intelligent Planning and Assimilation of AUV-Obtained Measurements within a ROMS-Based Ocean Modeling System 
+California Polytechnic State University, M.S. Thesis, 2010
+Davini, B.
+[PDF]
+
+* Multi-Robot Boundary Tracking with Workload and Phase Balancing
+California Polytechnic State University, M.S. Thesis, 2010.
+Boardman, M.
+[PDF]
+
+* Using Monocular Vision and Image Correlation to Accomplish Autonomous Localization
+California Polytechnic State University, M.S. Thesis, 2010.
+Schlachtman, M.
+
+#### 2009
+* Distributed Sensing and Observer Design for Vehicles State Estimation
+University of Waterloo, Ph.D. Thesis, 2009. 
+Bolandhemmat, H.
+[PDF]
+
+* Assigning Closely Spaced Targets to Multiple Autonomous Underwater Vehicles
+University of Waterloo, M.A.Sc. Thesis, 2009. 
+Chow, B.
+[PDF]
+
+#### 2008
+* A Decentralized Approach to Dynamic Collaborative Driving Coordination
+University of Waterloo, Ph.D. Thesis, 2008. 
+Dao, T.S.
+[PDF]
+
+* Reinforcement Learning for Dynamic Collaborative Driving
+University of Waterloo, Ph.D. Thesis, 2008.
+Ng, L.
+[PDF]
+
+#### 2007
+* State Estimation Strategies For Autonomous Underwater Vehicle Fish Tracking Applications
+University of Waterloo, M.Sc. Thesis, 2007. 
+Zhou, J.
+[PDF]
+
+* Cooperative Navigation for teams of Mobile Robots
+University of Waterloo, Ph.D. Thesis, 2007. 
+Peasgood, M.
+[PDF]
+
+* Multi-Frame Measurement Fusion for State Estimation
+University of Waterloo, M.Sc. Thesis, 2007. 
+Kroetsch, D.
+[PDF]
+
+* Design of a Mobile Robotic Platform with Variable Footprint
+University of Waterloo, M.Sc. Thesis, 2007. 
+Wilhelm, A.
+[PDF]
+
+* Monocular Vision Based Particle Filter Localization in Urban Environments
+University of Waterloo, M.Sc. Thesis, 2007. 
+Leung, K.
+[PDF]
+
+* Development and Control of a Modular and Reconfigurable Robot with Harmonic Drive Transmission System
+University of Waterloo, M.Sc. Thesis, 2007. 
+Li, Z.
+[PDF]
+
+#### 2006
+* Autonomous Control of a Differential Thrust Micro ROV
+University of Waterloo, M.Sc. Thesis, 2006. 
+Wang, W.
+[PDF]
+
+#### 2004
+* Dynamic Robot Networks: A Coordination Platform for Multi-Robot Systems
+Stanford University, Ph.D. Thesis, 2004. 
+Clark, C. 
+[PDF]
