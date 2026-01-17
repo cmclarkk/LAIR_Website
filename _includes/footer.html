@@ -1,7 +1,7 @@
 <footer id="footer">
     <!--Footer Button-->
-    <div class="container has-text-centered has-background-grey-darker" id="backtotop">
-        <a class="has-text-white" onclick="window.scroll(0,0)">BACK TO TOP</a>
+    <div class="container has-text-centered" id="backtotop">
+        <a class="has-text-grey" onclick="window.scroll(0,0)">BACK TO TOP</a>
     </div>
     <!--Footer Main Section-->
     <div class="has-background-grey-darker">
@@ -36,17 +36,8 @@
                 {% endunless %}
                 {% endfor %}
             </div>
-
-            <!--Blog-post Section-->
-            <div class="column has-text-white">
-                <h3>Recent Posts</h3>
-                {% for post in site.posts offset: 0 limit:3 %}
-                <li>
-                    <a href="{{post.url | absolute_url}}">{{post.title}}</a>
-                </li>
-                {% endfor %}
-            </div>
         </div>
     </div>
 
 </footer>
+
