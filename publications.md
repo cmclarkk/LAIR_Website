@@ -146,55 +146,25 @@ Chow, B.
 [PDF]
 
 #### 2008
-* A Decentralized Approach to Dynamic Collaborative Driving Coordination
-University of Waterloo, Ph.D. Thesis, 2008. 
-Dao, T.S.
-[PDF]
+* A Decentralized Approach to Dynamic Collaborative Driving Coordination, Dao, T.S., University of Waterloo, Ph.D. Thesis, 2008. [PDF]
 
-* Reinforcement Learning for Dynamic Collaborative Driving
-University of Waterloo, Ph.D. Thesis, 2008.
-Ng, L.
-[PDF]
+* Reinforcement Learning for Dynamic Collaborative Driving, Ng, L., University of Waterloo, Ph.D. Thesis, 2008. [PDF]
 
 #### 2007
-* State Estimation Strategies For Autonomous Underwater Vehicle Fish Tracking Applications
-University of Waterloo, M.Sc. Thesis, 2007. 
-Zhou, J.
-[PDF]
+* State Estimation Strategies For Autonomous Underwater Vehicle Fish Tracking Applications, Zhou, J., University of Waterloo, M.Sc. Thesis, 2007. [PDF]
 
-* Cooperative Navigation for teams of Mobile Robots
-University of Waterloo, Ph.D. Thesis, 2007. 
-Peasgood, M.
-[PDF]
+* Cooperative Navigation for teams of Mobile Robots, Peasgood, M., University of Waterloo, Ph.D. Thesis, 2007. [PDF]
 
-* Multi-Frame Measurement Fusion for State Estimation
-University of Waterloo, M.Sc. Thesis, 2007. 
-Kroetsch, D.
-[PDF]
+* Multi-Frame Measurement Fusion for State Estimation, Kroetsch, D., University of Waterloo, M.Sc. Thesis, 2007. [PDF]
 
-* Design of a Mobile Robotic Platform with Variable Footprint
-University of Waterloo, M.Sc. Thesis, 2007. 
-Wilhelm, A.
-[PDF]
+* Design of a Mobile Robotic Platform with Variable Footprint, Wilhelm, A., University of Waterloo, M.Sc. Thesis, 2007. [PDF]
 
-* Monocular Vision Based Particle Filter Localization in Urban Environments
-University of Waterloo, M.Sc. Thesis, 2007. 
-Leung, K.
-[PDF]
+* Monocular Vision Based Particle Filter Localization in Urban Environments, Leung, K., University of Waterloo, M.Sc. Thesis, 2007. [PDF]
 
-* Development and Control of a Modular and Reconfigurable Robot with Harmonic Drive Transmission System
-University of Waterloo, M.Sc. Thesis, 2007. 
-Li, Z.
-[PDF]
+* Development and Control of a Modular and Reconfigurable Robot with Harmonic Drive Transmission System, Li, Z., University of Waterloo, M.Sc. Thesis, 2007. [PDF]
 
 #### 2006
-* Autonomous Control of a Differential Thrust Micro ROV
-University of Waterloo, M.Sc. Thesis, 2006. 
-Wang, W.
-[PDF]
+* Autonomous Control of a Differential Thrust Micro ROV, Wang, W., University of Waterloo, M.Sc. Thesis, 2006. [PDF]
 
 #### 2004
-* Dynamic Robot Networks: A Coordination Platform for Multi-Robot Systems
-Stanford University, Ph.D. Thesis, 2004. 
-Clark, C. 
-[PDF]
+* Dynamic Robot Networks: A Coordination Platform for Multi-Robot Systems, Clark, C., Stanford University, Ph.D. Thesis, 2004.  [PDF]
