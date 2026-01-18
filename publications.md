@@ -68,45 +68,25 @@ layout: page
 
 ## Conference Publications
 #### 2023
-* Multi-Robot Expansive Planning and Trajectory Evaluation for Tracking and Localization of Marine Life
-SAC '23: Proceedings of the 38th ACM/SIGAPP Symposium on Applied Computing — March 2023, Pages 808–815
-Fay, K., Giordano, M., Soto, A., Clark, C.M., Spurgeon, E., Anderson, J., Lowe, C.
-[PDF]
+* Multi-Robot Expansive Planning and Trajectory Evaluation for Tracking and Localization of Marine Life, Fay, K., Giordano, M., Soto, A., Clark, C.M., Spurgeon, E., Anderson, J., Lowe, C., SAC '23: Proceedings of the 38th ACM/SIGAPP Symposium on Applied Computing — March 2023, Pages 808–815. [PDF]
 
 * Multi-AUV Marine Life Tracking via Single Transceiver Payloads, C. Herrera, C. Ossa, Y.J. Hwang, D. O'Neill, A. Soto, C. Clark, C. Lowe and M. Espinoza. The 22nd International Conference on Autonomous Agents and Multiagent Systems, Workshop on Autonomous Robots and MultiRobot Systems, 2023.
 
 #### 2020
-* Virtual Planning and Testing of AUV Paths for Underwater Photogrammetry
-15th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications. 
-Lewis, A., Yager, K., Keller, M., Galvan, B., Bingham, R.C., Ting, S., Wu, J., Gambin, T., Clark C.M., Wood, Z.J.
-[PDF]
+* Virtual Planning and Testing of AUV Paths for Underwater Photogrammetry, Lewis, A., Yager, K., Keller, M., Galvan, B., Bingham, R.C., Ting, S., Wu, J., Gambin, T., Clark C.M., Wood, Z.J., 15th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications. [PDF]
 
 #### 2019
-* Multi-Robot Path Planning Via Genetic Programming
-Workshop on Autonomous Robots and Multi-robot Systems (AAMAS), December 2019. 
-Trudeau, A., Clark C.M.
-[PDF]
+* Multi-Robot Path Planning Via Genetic Programming, Trudeau, A., Clark C.M., Workshop on Autonomous Robots and Multi-robot Systems (AAMAS), December 2019. [PDF]
 
-* Machine Learning Techniques for AUV Side Scan Sonar Data Feature Extraction as Applied to Intelligent Search for Underwater Archaeological Sites
-12th Conference on Field and Service Robotics, August 2019. 
-Nayak, N., Nara, M., Gambin, T., Wood Z.J., Clark C.M.
-[PDF]
+* Machine Learning Techniques for AUV Side Scan Sonar Data Feature Extraction as Applied to Intelligent, Nayak, N., Nara, M., Gambin, T., Wood Z.J., Clark C.M., Search for Underwater Archaeological Sites
+12th Conference on Field and Service Robotics, August 2019. [PDF]
 
 #### 2018
-* Acoustic Tag State Estimation with Unsynchronized Hydrophones on AUVs
-IEEE Intelligent Robots and Systems (IROS), 2018
-Jingnan Shi, Tianyi Ma, Chi-Yen Lee, Eyassu Shimelis, Charles Van Eijk, Christopher G. Lowe and Christopher M. Clark
-[PDF]
+* Acoustic Tag State Estimation with Unsynchronized Hydrophones on AUVs, Jingnan Shi, Tianyi Ma, Chi-Yen Lee, Eyassu Shimelis, Charles Van Eijk, Christopher G. Lowe and Christopher M. Clark, IEEE Intelligent Robots and Systems (IROS), 2018. [PDF]
 
-* Intelligent Shipwreck Search Using Autonomous Underwater Vehicles
-IEEE International Conference on Robotics and Automation (ICRA), May 2018
-Rutledge, J., Yuan, W., Wu, J., Freed, S., Lewis, A., Wood, Z., Gambin, T., Clark, C.M.
-[PDF]
+* Intelligent Shipwreck Search Using Autonomous Underwater Vehicles, Rutledge, J., Yuan, W., Wu, J., Freed, S., Lewis, A., Wood, Z., Gambin, T., Clark, C.M., IEEE International Conference on Robotics and Automation (ICRA), May 2018. [PDF]
 
-* Cinematographic and Geometric Criteria for Virtual Camera Path Generation for the Visualization of Shipwreck Data 
-14th International Conference on Computer Graphics Theory and Applications, 2018
-Davis, K., Viswanathan, V.K., Clark, C.M., Gambin, T., Wood, Z.
-[Preprint]
+* Cinematographic and Geometric Criteria for Virtual Camera Path Generation for the Visualization of Shipwreck Data, Davis, K., Viswanathan, V.K., Clark, C.M., Gambin, T., Wood, Z., 14th International Conference on Computer Graphics Theory and Applications, 2018. [Preprint].
 
 #### 2017
 * Pipeline for Reconstruction and Visualization of Underwater Marine Archaeology Sites using Photogrammetry (Winner of Best Paper Award), Seibert von Fock, S., Bilich, S., Davis, K., Viswanathan, V.K., Lobo Z., Lupanow, J., Clark, C.M., Gambin, T., Wood, Z., International Conference of Computers and their Applications (CATA) Mar., 2017. [PDF]
