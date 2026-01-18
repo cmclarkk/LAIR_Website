@@ -420,30 +420,26 @@ Barfoot, T., Clark, C., Rock, S., and D'Eleuterio, G.
 [PDF]
 
 #### 2001
-* Randomized Motion Planning for Groups of Nonholonomic Robots
-International Symposium on Artificial Intelligence, Robotics, and Automation in Space, June 2001. 
-Clark, C., and Rock, S.
-[PDF]
+* Randomized Motion Planning for Groups of Nonholonomic Robots, Clark, C., and Rock, S., International Symposium on Artificial Intelligence, Robotics, and Automation in Space, June 2001. [PDF]
 
 #### 1999
-* Robotic System Sensitivity to Neural Network Learning Rate
-IEEE Hong Kong Symposium on Robotics and Control, July, 1999.
-Clark, C., Chen, P.C.Y. and Mills, J.K.
+* Robotic System Sensitivity to Neural Network Learning Rate, Clark, C., Chen, P.C.Y. and Mills, J.K., IEEE Hong Kong Symposium on Robotics and Control, July, 1999.
 
-* Comparison of Performance of Neural Network Controller Architectures: Error Back Propagation, Mixture of Expert, and 'Move' Neural Network Architectures on Industrial Robot Trajectory Following Tasks
-International Conference on Advanced Manufacturing Technology, June, 1999.
-Clark, C. and Mills, J.K.
+
+* Comparison of Performance of Neural Network Controller Architectures: Error Back Propagation, Mixture of Expert, and 'Move' Neural Network Architectures on Industrial Robot Trajectory Following Tasks, Clark, C. and Mills, J.K., International Conference on Advanced Manufacturing Technology, June, 1999.
+
 
 #### 1998
-* Increasing Production of Robot Manipulators with Neural Networks
-CSME FORUM, May 1998.
-Clark, C. and Mills, J.K.
+* Increasing Production of Robot Manipulators with Neural Networks, Clark, C. and Mills, J.K., CSME FORUM, May 1998.
 
-* Development of a Neural Network Module for Improving the Performance of a Commercial Robot
-World Automation Congress, May, 1998.
-Chen, P.C.Y., Ogilvie, A., Clark, C., Zhou, K., Mills, J.K.
+
+* Development of a Neural Network Module for Improving the Performance of a Commercial Robot, Chen, P.C.Y., Ogilvie, A., Clark, C., Zhou, K., Mills, J.K., World Automation Congress, May, 1998.
+
+
 
 ## Book Chapters
+
+#### 2018
 * Emerging technologies and application for studies of shark biology. In: J. Carrier, M. Heithaus, C. Simpfendorfer (eds.). Use of autonomous vehicles for tracking and surveying of acoustically tagged elasmobranchs. CRC Press. Lowe, C.G., C.F. White, C.M. Clark. 2018.
 
 
@@ -456,10 +452,7 @@ Chen, P.C.Y., Ogilvie, A., Clark, C., Zhou, K., Mills, J.K.
 
 * Autonomous Control for Remotely Operated Vehicles, Li, Yingxue, Princeton University, Senior Thesis, 2012. [PDF]
 
-* Mapping of Underwater Environments with an ROV using a robotic Smart Tether in conjunction with Simultaneous Localization and Mapping (SLAM) Algorithms
-Princeton University, Senior Thesis, 2012. 
-Boik, Andrew
-[PDF]
+* Mapping of Underwater Environments with an ROV using a robotic Smart Tether in conjunction with Simultaneous Localization and Mapping (SLAM) Algorithms, Boik, Andrew, Princeton University, Senior Thesis, 2012. [PDF]
 
 * 2D Scanning Sonar Modeling and Algorithm Development for Robots Conducting Underwater Tunnel Mapping, Walker, Austin E., Princeton University, Senior Thesis, 2012. [PDF]
 
