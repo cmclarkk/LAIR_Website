@@ -1,7 +1,7 @@
 - name: Bimannual Manipulation Control via VLAs
   image: /LAIR/assets/images/UltraRobot.jpg
   link:
-  description: We are working with the company Ultra Tech to develop new strategies for bimanipulation using Vision Language Action models. We are targetting industrial applications that are repetitive but difficult.
+  description: We are working with CoPI Dr. Ludovic Righetti and the startup company Ultra Tech to develop new strategies for bimanipulation using Vision Language Action models. We are targetting industrial applications that are repetitive but difficult.
 - name: Autonomous Control for Shark Tracking
   link:
   image: /LAIR/assets/images/ASV.jpg
@@ -10,5 +10,6 @@
   link:
   image: /LAIR/assets/images/AUV.jpg
   description: Working with the Dr. T. Gambin from the University of Malta, we are researching new machine learned autonomous control algorithms to enable shipwreck circumnavigation with underwater robots. Ideally, this will provide a means of horizontal view observations of shipwrecks.
+
 
 
